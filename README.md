@@ -14,7 +14,8 @@ Agenda<br />
 [R, and RStudio](install-R.md).<br />
 6:30 pm: Workshop leaders will do a brief introduction, walking through the goal, activities, and materials for the evening. 
 Volunteers will introduce themselves.<br />
-6:50 pm: Complete installation of both Anaconda and R, run through commented script files for Python and R. Volunteers will help as needed.<br />
+6:50 pm: Complete installation of both Anaconda and R, run through commented script files for [Python](Python-titanic-intro.py) 
+and [R](R-titanic-intro.R). Volunteers will help as needed.<br />
 8:45 pm: Wrap up, point people to the [additional resources](resources.md) file.<br />
 
 Basic To-Do:<br />
