@@ -10,8 +10,8 @@ get both Anaconda (Python) and R installed on their computers and guide them thr
 Additional resources for learning such as links to online classes and tutorials will also be provided.
 
 Agenda
-6:00 pm: People arrive, grab food and flash drives to start installing using instructions for [Anaconda (Python)](..blob/master/install-python.md), 
-[R, and RStudio](..blob/master/install-R.md).
+6:00 pm: People arrive, grab food and flash drives to start installing using instructions for [Anaconda (Python)](install-python.md), 
+[R, and RStudio](install-R.md).
 6:30 pm: Workshop leaders will do a brief introduction, walking through the goal, activities, and materials for the evening. 
 Volunteers will introduce themselves.
 6:50 pm: Complete installation of both Anaconda and R, run through commented script files for Python and R. Volunteers will help as needed.
