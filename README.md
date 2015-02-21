@@ -10,8 +10,8 @@ get both Anaconda (Python) and R installed on their computers and guide them thr
 Additional resources for learning such as links to online classes and tutorials will also be provided.
 
 Agenda
-6:00 pm: People arrive, grab food and flash drives to start installing using instructions for [Anaconda (Python)](Dcubed-installfest-2015/install-python.md), 
-[R, and RStudio](Dcubed-installfest-2015/install-R.md).
+6:00 pm: People arrive, grab food and flash drives to start installing using instructions for [Anaconda (Python)](..blob/master/install-python.md), 
+[R, and RStudio](..blob/master/install-R.md).
 6:30 pm: Workshop leaders will do a brief introduction, walking through the goal, activities, and materials for the evening. 
 Volunteers will introduce themselves.
 6:50 pm: Complete installation of both Anaconda and R, run through commented script files for Python and R. Volunteers will help as needed.
@@ -22,5 +22,5 @@ Install Anaconda
 Install R
 Install RStudio
 Save test.csv to computer 
-# do we want to recommend saving the data in the R folder so it's already in the working directory?
+(do we want to recommend saving the data in the R folder so it's already in the working directory?)
 
