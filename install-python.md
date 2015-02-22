@@ -54,13 +54,13 @@ Follow the 'First steps with Spyder' described in the tutorial provided in the '
 
     > ipython
 
-Type: 
-    print("Hello World")
-Then press enter. You'll see the message printed.
+Type:<br />
+    print("Hello World")<br />
+Then press enter. You'll see the message printed.<br />
 
-Type:
-    list = [1, 2, 3, 4]
-    print list
+Type:<br />
+    list = [1, 2, 3, 4]<br />
+    print list<br />
 
 * to start IPython Notebook
 
@@ -76,14 +76,13 @@ IPython has a set of magic commands that help the interactive programming proces
 Execute the cell and the pylab magic will run. In another code cell, add and execute the following Python code to plot a segment of the sine function:
 	
     x = linspace(0, 10)
-    y =sin(x)
+    y = sin(x)
     plot(x, y)
 
 Anaconda also includes a graphical Launcher application that enables you to start IPython Notebook, IPython QTConsole, and Spyder with a single click. 
 
-- On Mac, double click Launcher.app in your ~/anaconda directory.
-- On Windows, you’ll find Anaconda Launcher in your Start Menu.
-- On Linux, you’ll need to type launcher into a terminal.
+On Mac, double click Launcher.app in your ~/anaconda directory.
+On Windows, you’ll find Anaconda Launcher in your Start Menu.
 
 
 * Check out what packages are installed with Anaconda
@@ -96,8 +95,8 @@ You can type the command 'conda -h' to pull up the help menu.
 
 * Check for updates
 
-    > conda update conda
-    > conda update anaconda
+    > conda update conda<br />
+    > conda update anaconda<br />
 
 
 Uninstalling
