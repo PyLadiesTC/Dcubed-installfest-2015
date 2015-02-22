@@ -110,6 +110,6 @@ On Mac or Linux, remove all the prepended path variables in your .bashrc or your
 ## More resources & tutorials...
 * [Anaconda Quickstart Guide] (https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
 * [Anaconda FAQs] (http://docs.continuum.io/anaconda/faq.html)
-* [Getting started with IPython Notebook] (https://blog.safaribooksonline.com/2013/12/12/start-ipython-notebook/)
+* [Getting started with IPython Notebook] (http://nbviewer.ipython.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb)
 * [More examples to practice with IPython Notebook] (http://nbviewer.ipython.org/github/jckantor/CBE20255/blob/master/notebooks/Getting%20Started%20with%20IPython.ipynb)
 
