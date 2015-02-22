@@ -55,12 +55,12 @@ Follow the 'First steps with Spyder' described in the tutorial provided in the '
     > ipython
 
 Type:<br />
-    print("Hello World")<br />
+    > print("Hello World")<br />
 Then press enter. You'll see the message printed.<br />
 
 Type:<br />
-    list = [1, 2, 3, 4]<br />
-    print list<br />
+    > list = [1, 2, 3, 4]<br />
+    > print list<br />
 
 * to start IPython Notebook
 
@@ -71,13 +71,13 @@ Create a notebook by clicking the New Notebook button on the right. You can chan
 
 IPython has a set of magic commands that help the interactive programming process. Magic commands are prefixed with a single or double percent symbol. The pylab magic command automatically configures Python for plotting. Use the pylab magic command by entering the following into a code cell:
 
-    %pylab inline
+    > %pylab inline
 
 Execute the cell and the pylab magic will run. In another code cell, add and execute the following Python code to plot a segment of the sine function:
 	
-    x = linspace(0, 10)
-    y = sin(x)
-    plot(x, y)
+    > x = linspace(0, 10)
+    > y = sin(x)
+    > plot(x, y)
 
 Anaconda also includes a graphical Launcher application that enables you to start IPython Notebook, IPython QTConsole, and Spyder with a single click. 
 
