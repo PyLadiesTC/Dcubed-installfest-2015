@@ -28,7 +28,7 @@ Additional Resources for Learning
 
 - [Introduction to Data Science with R: How to Manipulate, Visualize, and Model Data with the R Language ($160 video lessons)](http://shop.oreilly.com/product/0636920034834.do)<br />
 
-- [Try R:](http://tryr.codeschool.com/)<br />
+- [Try R](http://tryr.codeschool.com/)<br />
 
 - [DataCamp videos for advanced topics](https://www.datacamp.com/courses)<br />
 
