@@ -24,7 +24,7 @@ Additional Resources for Learning
 
 - [Coursera Data Analysis specialization](https://www.coursera.org/specialization/jhudatascience/1)<br />
 
-- [Video series from Google](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqA)<br />
+- [Video series from Google](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)<br />
 
 - [Introduction to Data Science with R: How to Manipulate, Visualize, and Model Data with the R Language ($160 video lessons)](http://shop.oreilly.com/product/0636920034834.do)<br />
 
