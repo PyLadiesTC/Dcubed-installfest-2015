@@ -22,7 +22,7 @@ Basic To-Do:<br />
 Install Anaconda<br />
 Install R<br />
 Install RStudio<br />
-Save test.csv to computer <br />
+Save train.csv to computer <br />
 
 (do we want to recommend saving the data in the R folder so it's already in the working directory?)
 
