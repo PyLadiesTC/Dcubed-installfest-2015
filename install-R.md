@@ -39,11 +39,11 @@ Once you've got RStudio installed, that should be all you need to get going!  Fr
 
 ## Installing Packages
 There are a number of add-on libraries (or "packages", in R speak) that are popular in the R community.  Packages are essentially extensions for the R base software that you can download to do some fun, quirky, and useful things you may need when working on different projects.  In fact, one of R's biggest draws is its rich set of packages optimized for data analysis and visualization that users have created for it over the years.  A few suggestions for packages to look into as you're getting started:
-* datasets - A library that contains tons of sample datasets.
-* googleVis - Lets you generate Google Charts from within R.
-* ggplot2 - R's built-in plotting options can look a little ugly, so this is a popular library that people use to improve the look of their plots.  Great for design-minded folks who are frustrated with the "default" look of R!  A word of caution: this library has a somewhat complex syntax unto itself, so it can take some time to learn, and even has entire books devoted to mastering it.
-* dplyr - R's built-in options for sorting and subsetting data are decent, but not always as quick or intuitive as some would like.  This library gives you functions to help sort, slice up, and manipulate your data more efficiently.
-* RColorBrewer - Helps you generate nice, ColorBrewer-approved color schemes that you can apply to your plots.
+* *datasets* - A library that contains tons of sample datasets.
+* *googleVis* - Lets you generate Google Charts from within R.
+* *ggplot2* - R's built-in plotting options can look a little ugly, so this is a popular library that people use to improve the look of their plots.  Great for design-minded folks who are frustrated with the "default" look of R!  A word of caution: this library has a somewhat complex syntax unto itself, so it can take some time to learn, and even has entire books devoted to mastering it.
+* *dplyr* - R's built-in options for sorting and subsetting data are decent, but not always as quick or intuitive as some would like.  This library gives you functions to help sort, slice up, and manipulate your data more efficiently.
+* *RColorBrewer* - Helps you generate nice, ColorBrewer-approved color schemes that you can apply to your plots.
 
 Installing packages is really easy!  For example, to install the "datasets" package, first make sure you're online, then head to the R console and execute:
 `install.packages("datasets")`
