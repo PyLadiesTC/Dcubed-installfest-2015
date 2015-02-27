@@ -19,7 +19,7 @@
 # 
 # First we import the libraries we need for data analysis; these are all included with Anaconda
 # 
-# * NumPy is short for Numerical Pyhton and is used for scientific computing
+# * NumPy is short for Numerical Python and is used for scientific computing
 # * pandas contains the DataFrame class and many tools for data analysis
 # * matplotlib is used for interactive plotting and data visualization
 # 
