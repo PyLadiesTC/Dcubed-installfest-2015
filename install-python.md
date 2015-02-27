@@ -40,6 +40,13 @@ Then deselect the “Modify PATH” option.
 Getting started
 ===============
 
+Anaconda includes a graphical Launcher application that enables you to start IPython Notebook, IPython QTConsole, and Spyder with a single click. 
+
+On Mac, double click Launcher.app in your ~/anaconda directory.
+On Windows, you’ll find Anaconda Launcher in your Start Menu.
+
+OR
+
 Navigate to the terminal (OSX, Linux) or Command prompt (Windows) and type the following commands:
 
 * to start Spyder (Scientific PYthon Development EnviRonment), the interactive development environment (IDE) included with Anaconda
@@ -50,7 +57,7 @@ Spyder comes with an Editor (on the left side) to write code, a Console (right s
 
 Follow the 'First steps with Spyder' described in the tutorial provided in the 'Help' section of the program. 
 
-* to start Iphyton
+* to start IPython
 
     > ipython
 
@@ -79,12 +86,6 @@ Execute the cell and the pylab magic will run. In another code cell, add and exe
     > y = sin(x)
     > plot(x, y)
 
-Anaconda also includes a graphical Launcher application that enables you to start IPython Notebook, IPython QTConsole, and Spyder with a single click. 
-
-On Mac, double click Launcher.app in your ~/anaconda directory.
-On Windows, you’ll find Anaconda Launcher in your Start Menu.
-
-
 * Check out what packages are installed with Anaconda
 
     > conda list
@@ -110,6 +111,7 @@ On Mac or Linux, remove all the prepended path variables in your .bashrc or your
 ## More resources & tutorials...
 * [Anaconda Quickstart Guide] (https://store.continuum.io/static/img/Anaconda-Quickstart.pdf)
 * [Anaconda FAQs] (http://docs.continuum.io/anaconda/faq.html)
+* [IPython Notebook homepage](http://ipython.org/notebook.html}
 * [Getting started with IPython Notebook] (http://nbviewer.ipython.org/github/jvns/pandas-cookbook/blob/master/cookbook/A%20quick%20tour%20of%20IPython%20Notebook.ipynb)
 * [More examples to practice with IPython Notebook] (http://nbviewer.ipython.org/github/jckantor/CBE20255/blob/master/notebooks/Getting%20Started%20with%20IPython.ipynb)
 
