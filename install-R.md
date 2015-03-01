@@ -2,7 +2,7 @@ Install R
 =========
 
 ## Installing the R base software
-To install R, all you have to do is head to one of R's CRAN servers and download the proper R installer for your operating system.  "CRAN" stands for "Comprehensive R Archive Network", which is the worldwide network of computers responsible for hosting and serving the R base software and packages for you to use and enjoy.  The [CRAN mirrors](http://cran.r-project.org/mirrors.html) site lets you take a look at where all of these CRAN-networked computers are located.  
+To install R, all you have to do is head to one of R's CRAN servers and download the proper R installer for your operating system.  "CRAN" stands for "Comprehensive R Archive Network", which is the worldwide network of computers responsible for hosting and serving the R base software and packages for you to use and enjoy.  The [CRAN mirrors site](http://cran.r-project.org/mirrors.html) lets you take a look at where all of these CRAN-networked computers are located.  
 
 When choosing a CRAN mirror, just pick one close to where you live, and R will do the rest!  (And don't worry--you don't have to be **too** precise about distance here...it's just generally best to pick a mirror that's closer to you for faster download times.)  So, since we're in Minnesota, let's head to a CRAN mirror that's hosted nearby at [Iowa State University](http://streaming.stat.iastate.edu/CRAN/).
 
