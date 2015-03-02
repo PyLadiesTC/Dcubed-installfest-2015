@@ -1,7 +1,7 @@
 Additional Resources for Learning
 ====================
 
-###Python
+##Python
 
 - [Python for Informatics free online resources](http://www.pythonlearn.com/book.php)<br />
 
@@ -18,22 +18,38 @@ Additional Resources for Learning
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/)<br />
 
 
-###R
+##R
 
-- [Kaggle Titanic: Machine Learning from Disaster- R](https://www.kaggle.com/c/titanic-gettingStarted/details/new-getting-started-with-r)<br />
+### Learning R
+- [R Studio's Online Learning portal](http://www.rstudio.com/resources/training/online-learning/)
+- [DataCamp's "Introduction to R" online course](https://www.datacamp.com/courses/free-introduction-to-r)
+- [Code School's "Try R" tutorial](http://tryr.codeschool.com/)
+- [Learn R in R with Swirl](http://swirlstats.com/)
+- [Video series from Google](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
 
-- [Coursera Data Analysis specialization](https://www.coursera.org/specialization/jhudatascience/1)<br />
+### Resources/Documentation
+- [Quick - R](http://www.statmethods.net/)
+- [R Cookbook](http://www.cookbook-r.com/)
+- [Advanced R](http://adv-r.had.co.nz/)
+- [R Reference Card PDF](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
 
-- [Video series from Google](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)<br />
+### Specialized Areas
+- [ggplot2 Documentation](http://docs.ggplot2.org/current/index.html)
+- [Introduction to dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
+- [A Little Book of R on Time Series](https://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/)
+- [RStudio Cheatsheets on dplyr, tidyr, shiny, and markdown](http://www.rstudio.com/resources/cheatsheets/)
 
-- [Introduction to Data Science with R: How to Manipulate, Visualize, and Model Data with the R Language ($160 video lessons)](http://shop.oreilly.com/product/0636920034834.do)<br />
+### Kaggle Titantic
+- [Kaggle Titanic: Machine Learning from Disaster- R](https://www.kaggle.com/c/titanic-gettingStarted/details/new-getting-started-with-r)
 
-- [Try R](http://tryr.codeschool.com/)<br />
+### Data Science Courses
+- [Coursera Data Analysis Specialization](https://www.coursera.org/specialization/jhudatascience/1)
+- [Coursera Machine Learning Course](https://www.coursera.org/course/ml)
+- [Udacity's Data Analyst Nanodegree](https://www.udacity.com/course/nd002)
+- [Stanford's Statistical Learning](http://online.stanford.edu/course/statistical-learning)
 
-- [DataCamp videos for advanced topics](https://www.datacamp.com/courses)<br />
 
-
-###General
+##General
 
 - [Viking Code School blog- Why Learning to Code is so Damn Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)<br />
 
