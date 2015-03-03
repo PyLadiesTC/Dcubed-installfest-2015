@@ -23,6 +23,7 @@ Install Anaconda<br />
 Install R<br />
 Install RStudio<br />
 Save train.csv to computer <br />
+Walk through Titanic data analysis in Python <br />
+Walk through Titanic data analysis in R <br />
 
-(do we want to recommend saving the data in the R folder so it's already in the working directory?)
 
