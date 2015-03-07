@@ -23,6 +23,20 @@ Install Anaconda<br />
 Install R<br />
 Install RStudio<br />
 Save train.csv to computer <br />
-
-(do we want to recommend saving the data in the R folder so it's already in the working directory?)
+Walk through Titanic data analysis in Python <br />
+Walk through Titanic data analysis in R <br />
+<br />
+Details for Anaconda/Python:<br />
+To use the iPython Notebook, launch iPython Notebook and import the file. The path for the train.csv file should work if the notebook 
+and the data are in the same folder;  if the code doesn’t work, check the path to train.csv. Run the first cell by clicking in the 
+cell and hitting Shift + Enter. Make sure you run the first cell first, or the libraries will not import.<br />
+<br />
+To use Spyder, open Spyder by typing “Spyder” in the command line. Go to File, Open and select Python-titanic-intro.py. The path 
+for the train.csv file should work if the notebook and the data are in the same folder;  if the code doesn’t work, check the path 
+to train.csv. Use Shift + Enter to run the first cell and go to the next one, or the icon at the top that has a green arrow, a red 
+box, and a red arrow. Make sure you run the first cell first, or the libraries will not import.<br />
+<br />
+Details for R:<br />
+To use R, Open RStudio. Go to File, Open File, select R-titanic-intro.R. Follow the instructions to check your working directory 
+and then either set it to where the train.csv file is or move the train.csv file to your working directory.<br />
 
