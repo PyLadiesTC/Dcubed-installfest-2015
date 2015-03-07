@@ -33,12 +33,18 @@ Additional Resources for Learning
 - [Advanced R](http://adv-r.had.co.nz/)
 - [R Reference Card PDF](http://cran.r-project.org/doc/contrib/Baggott-refcard-v2.pdf)
 
-### Specialized Areas
+### Graphing
 - [ggplot2 Documentation](http://docs.ggplot2.org/current/index.html)
-- [Introduction to dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
-- [A Little Book of R on Time Series](https://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/)
-- [RStudio Cheatsheets on dplyr, tidyr, shiny, and markdown](http://www.rstudio.com/resources/cheatsheets/)
+- [R Graphics Cookbook](http://www.cookbook-r.com/Graphs/)
 
+## Specialized Areas
+- [Introduction to dplyr](http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html)
+- [Cheatsheet for dplyr join fucntions](http://stat545-ubc.github.io/bit001_dplyr-cheatsheet.html)
+- [data.table Cheatsheet: Data Analysis the data.table Way](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf)
+- [lubridate Cheatsheet](http://blog.yhathq.com/static/pdf/R_date_cheat_sheet.pdf)
+- [RStudio Cheatsheets on dplyr, tidyr, shiny, and markdown](http://www.rstudio.com/resources/cheatsheets/)
+- [A Little Book of R on Time Series](https://a-little-book-of-r-for-time-series.readthedocs.org/en/latest/)
+- 
 ### Kaggle Titantic
 - [Kaggle Titanic: Machine Learning from Disaster- R](https://www.kaggle.com/c/titanic-gettingStarted/details/new-getting-started-with-r)
 
