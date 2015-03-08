@@ -1,4 +1,4 @@
-** Slides and notes from the Data^3 conference will be posted here, check back soon!**
+Slides and notes from the Data^3 conference will be posted here, check back soon!
 ====================
 Data^3 Installfest 2015
 ====================
