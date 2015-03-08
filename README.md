@@ -1,3 +1,5 @@
+** Slides and notes from the Data^3 conference will be posted here, check back soon!**
+====================
 Data^3 Installfest 2015
 ====================
 
@@ -9,7 +11,7 @@ Goal: To prepare folks who want to install and learn about Python, R, or both, f
 get both Anaconda (Python) and R installed on their computers and guide them through some basic data analysis tasks in both languages.
 Additional resources for learning such as links to online classes and tutorials will also be provided.
 
-Agenda<br />
+Installfest Agenda<br />
 6:00 pm: People arrive, grab food and flash drives to start installing using instructions for [Anaconda (Python)](install-python.md), 
 [R, and RStudio](install-R.md).<br />
 6:30 pm: Workshop leaders will do a brief introduction, walking through the goal, activities, and materials for the evening. 
