@@ -19,7 +19,7 @@ Wes McKinney, Software Engineer at Cloudera, author of "Python for Data Analysis
 *An Introduction to Bayesian Belief Network in R Using the bnlearn Package* [in GitHub](data3presentations/04 Abraham Matthew BN_Presentation.pdf) or [on slideshare](http://www.slideshare.net/AbrahamMathew9/bn-presentation-45607773)
 Abraham Matthew, Analytics Strategist at Carmichael Lynch [r file](data3presentations/04 Abraham Matthew BN_Presentation.r) , [Tinder Data csv](data3presentations/04 Abraham Matthew - Tinder_Data.csv)
 
-*Data inspection, validation, and conversion using csvkit* Matt Pettis, Data Scientist at Quantum Retail
+[*Data inspection, validation, and conversion using csvkit*](https://github.com/mpettis/csvkit_talk) Matt Pettis, Data Scientist at Quantum Retail
 
 [*Building A Classifier in Python and R*](data3presentations/06 Jay Jacobs - Detecing Algorithmically Generated Domains.pdf)
  Jay Jacobs, Principal at Verizon and co-author of "Data Driven Security"
