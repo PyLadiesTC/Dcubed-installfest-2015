@@ -30,10 +30,10 @@ Abraham Matthew, Analytics Strategist at Carmichael Lynch [r file](data3presenta
 
 [*Data Visualization in R*](data3presentations/09 Winston Chang data3 20150307.pdf) Winston Chang, Software Engineer at RStudio and author of "R Graphics Cookbook"
 
-Panel Discussion - How do you practice Data Science?
-Jay Jacobs, Principal at Verizon
-Marc Light, Senior Engineering Manager at Honeywell Automation and Control Solutions
-Ravi Shanbhag, Director of Data Science at OptumInsight
-Alicia Hofelich Mohr, Data Management Research Associate at University of Minnesota
+Panel Discussion - How do you practice Data Science? <br />
+Jay Jacobs, Principal at Verizon<br />
+Marc Light, Senior Engineering Manager at Honeywell Automation and Control Solutions<br />
+Ravi Shanbhag, Director of Data Science at OptumInsight<br />
+Alicia Hofelich Mohr, Data Management Research Associate at University of Minnesota<br />
 
 Thanks to our sponsors: Target, Cloudera, and SPS Commerce
