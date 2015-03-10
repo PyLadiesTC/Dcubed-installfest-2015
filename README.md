@@ -1,9 +1,9 @@
 Data^3 2015
 ====================
 
-**This Repo contains the slides/presentations from the 3/7/15 Data^3 conference hosted by PyMNtos, the Twin Cities R User Group, 
-and PyLadiesTC. It also contains all materials developed for the Installfest organized by PyLadies that was developed to help 
-folks to be prepared for the conference.** 
+**This repository contains the slides/presentations from the 3/7/15 Data^3 conference hosted by PyMNtos, the Twin Cities R User Group, 
+and PyLadiesTC. It also contains all materials developed for the [Installfest](installfest-README.md) organized by PyLadies that was developed to help 
+participants to be prepared for the conference.** 
 
 *To download files from GitHub, click "Raw" or "View Raw"*
 
