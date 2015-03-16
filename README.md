@@ -26,7 +26,8 @@ Abraham Matthew, Analytics Strategist at Carmichael Lynch [r file](data3presenta
 
 [*The Allure of a Kaggle Competition*](data3presentations/07 Diane Rucker - The Allure of a Kaggle Competition.pdf) Diane Rucker, Project Management Consultant for MIT Trust Center for Leadership
 
-*Paleontology in Python: Analyzing Dinosaur Trackways* Scott Ernst, Scientific Research Consultant at Paléojura (A16)
+*Paleontology in Python: Analyzing Dinosaur Trackways* [in Github](data3presentations/Scott+Ernst+Paleo+Python.pdf) or [online](https://s3-us-west-2.amazonaws.com/www.scott-ernst.com/data3/Scott+Ernst+Paleo+Python.pdf)
+Scott Ernst, Scientific Research Consultant at Paléojura (A16)
 
 [*Data Visualization in R*](data3presentations/09 Winston Chang data3 20150307.pdf) Winston Chang, Software Engineer at RStudio and author of "R Graphics Cookbook"
 
