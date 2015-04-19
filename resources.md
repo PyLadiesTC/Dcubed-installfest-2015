@@ -5,18 +5,19 @@ Additional Resources for Learning
 
 - [Python for Informatics free online resources](http://www.pythonlearn.com/book.php)<br />
 
-- [Programming for Everybody (Python)- free Coursera class](https://www.coursera.org/course/pythonlearn)<br />
+- [Programming for Everybody (Python)- free Coursera class that uses the book above](https://www.coursera.org/course/pythonlearn)<br />
 
-- [Python for Data Analysis book](http://shop.oreilly.com/product/0636920023784.do)<br />
+- [Open Tech School: Introduction to Data Processing with Python](http://opentechschool.github.io/python-data-intro/)<br />
 
 - [Kaggle Titanic: Machine Learning from Disaster- Python](https://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-python)<br />
 
-- [Rice University Interactive Programming in Python](https://www.coursera.org/course/interactivepython1)<br />
+- [Rice University: Interactive Programming in Python](https://www.coursera.org/course/interactivepython1)<br />
 
-- [Code Academy](http://www.codecademy.com/en/tracks/python)<br />
+- [Code Academy: Python](http://www.codecademy.com/en/tracks/python)<br />
 
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/)<br />
 
+- [Python for Data Analysis book](http://shop.oreilly.com/product/0636920023784.do)<br />
 
 ##R
 
